@@ -12,7 +12,7 @@ text-lg text-cyan flex items-center
      "
     >
       <img src={logoSvg} alt="CrytoNest" />
-      <span>CrytoNest</span>
+      <span>CryptoNest</span>
     </Link>
   );
 };
